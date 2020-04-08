@@ -1,1 +1,1 @@
-<h1> Hello, Welcome toTomcat !!! </h1>
+<h1> Hello, Welcome to Tomcat !!! </h1>
